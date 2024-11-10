@@ -1,0 +1,1 @@
+If you are reading this, I am sorry for the eye sore, it is my first react project that has come decently far. 
